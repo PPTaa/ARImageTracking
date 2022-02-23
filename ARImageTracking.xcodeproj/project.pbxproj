@@ -48,6 +48,7 @@
 		7C78882927C5FD3000A1E1CA = {
 			isa = PBXGroup;
 			children = (
+				7C78885C27C6403500A1E1CA /* README.md */,
 				7C78883427C5FD3000A1E1CA /* ARImageTracking */,
 				7C78883327C5FD3000A1E1CA /* Products */,
 			);
@@ -71,7 +72,6 @@
 				7C78883B27C5FD3000A1E1CA /* Main.storyboard */,
 				7C78883E27C5FD3200A1E1CA /* Assets.xcassets */,
 				7C78884027C5FD3200A1E1CA /* LaunchScreen.storyboard */,
-				7C78885C27C6403500A1E1CA /* README.md */,
 			);
 			path = ARImageTracking;
 			sourceTree = "<group>";
