@@ -1,0 +1,20 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "airpod.arreferenceimage"
+    },
+    {
+      "filename" : "drug.arreferenceimage"
+    },
+    {
+      "filename" : "IMG_5470.arreferenceimage"
+    },
+    {
+      "filename" : "IMG_5471.arreferenceimage"
+    }
+  ]
+}
