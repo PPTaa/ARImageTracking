@@ -31,6 +31,7 @@
 		7C78884F27C6243400A1E1CA /* Diamond.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = Diamond.scn; sourceTree = "<group>"; };
 		7C78885627C627FF00A1E1CA /* LeftTurnArrow.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = LeftTurnArrow.scn; sourceTree = "<group>"; };
 		7C78885827C6280800A1E1CA /* StraightArrow.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = StraightArrow.scn; sourceTree = "<group>"; };
+		7C78885C27C6403500A1E1CA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +71,7 @@
 				7C78883B27C5FD3000A1E1CA /* Main.storyboard */,
 				7C78883E27C5FD3200A1E1CA /* Assets.xcassets */,
 				7C78884027C5FD3200A1E1CA /* LaunchScreen.storyboard */,
+				7C78885C27C6403500A1E1CA /* README.md */,
 			);
 			path = ARImageTracking;
 			sourceTree = "<group>";

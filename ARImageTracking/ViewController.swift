@@ -43,15 +43,13 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        let worldConfig = ARWorldTrackingConfiguration()
+        
         let configuration = ARImageTrackingConfiguration()
-        worldConfig.planeDetection = .horizontal
         if let trackingImages = ARReferenceImage.referenceImages(inGroupNamed: "testImage", bundle: Bundle.main) {
             configuration.trackingImages = trackingImages
             configuration.maximumNumberOfTrackedImages = 4
         }
         
-        sceneView.session.run(worldConfig)
         sceneView.session.run(configuration)
     }
     
